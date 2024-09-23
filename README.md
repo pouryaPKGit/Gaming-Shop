@@ -27,6 +27,8 @@ Footer of site :
 
 products pages : 
 
+![Screenshot (238)](https://github.com/user-attachments/assets/ef16ea64-6f56-4157-aae0-32a0737fa897)
+
 ![Screenshot (222)](https://github.com/user-attachments/assets/0e34ee65-9334-471d-a050-43243bd56477)
 
 about us pages : 
@@ -63,6 +65,9 @@ Products details :
 
 ![Screenshot (230)](https://github.com/user-attachments/assets/bd3f7792-9713-42e3-9204-45e39e97e337)
 
+offs pages : 
+
+![Screenshot (237)](https://github.com/user-attachments/assets/f47648c5-ef18-430f-8732-79a6cef0231e)
 
 likes pages : 
 
